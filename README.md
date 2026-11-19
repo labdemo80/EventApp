@@ -13,5 +13,5 @@
 
 <hr>
 
-<b>Home</b>
+<center><b>Home</b></center>
 ![alt text](images/home.png)
